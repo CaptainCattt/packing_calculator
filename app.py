@@ -19,8 +19,8 @@ MASTER_STRUCTURE = {
 
 SPECIAL_STRUCTURE = {
     "BTHP": {
-        "pack_size": 50,
-        "weight_per_box": 12
+        "pack_size": 12,
+        "weight_per_box": 4
     }
 }
 
